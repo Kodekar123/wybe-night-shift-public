@@ -1,0 +1,6 @@
+.env
+logs/*
+!logs/findings.jsonl
+__pycache__/
+*.pdf
+.claude/settings.local.json
